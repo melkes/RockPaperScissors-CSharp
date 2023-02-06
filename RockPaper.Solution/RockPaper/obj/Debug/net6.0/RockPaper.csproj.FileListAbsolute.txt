@@ -1,0 +1,15 @@
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.csproj.AssemblyReference.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.AssemblyInfoInputs.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.AssemblyInfo.cs
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.csproj.CoreCompileInputs.cache
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/bin/Debug/net6.0/RockPaper.deps.json
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/bin/Debug/net6.0/RockPaper.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/bin/Debug/net6.0/RockPaper.pdb
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/refint/RockPaper.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.pdb
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/ref/RockPaper.dll
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/bin/Debug/net6.0/RockPaper
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/bin/Debug/net6.0/RockPaper.runtimeconfig.json
+/Users/mikewilkes/Desktop/Projects/Epicodus-2023/C#/RockPaper.Solution/RockPaper/obj/Debug/net6.0/RockPaper.genruntimeconfig.cache
